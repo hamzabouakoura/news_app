@@ -19,9 +19,16 @@ NewsApp is a mobile application designed to keep you informed about the latest n
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+<table>
+  <tr>
+    <td><img src="https://github.com/hamzabouakoura/news_app/assets/103844829/08c639ef-719a-42a2-90a8-252df6e602a8" alt="Screenshot 1" width="200"/></td>
+    <td><img src="https://github.com/hamzabouakoura/news_app/assets/103844829/5dc29a81-89dc-4613-a164-cdd55f20c534" alt="Screenshot 2" width="200"/></td>
+    <td><img src="https://github.com/hamzabouakoura/news_app/assets/103844829/e402a35e-90ce-44bf-ad61-ecf22ab4cfc0" alt="Screenshot 3" width="200"/></td>
+    <td><img src="https://github.com/hamzabouakoura/news_app/assets/103844829/5b037c6b-c73d-4aa3-a339-21dea205028b" alt="Screenshot 4" width="200"/></td>
+    <td><img src="https://github.com/hamzabouakoura/news_app/assets/103844829/1c12864d-96c5-4735-8482-37c6c050c46b" alt="Screenshot 5" width="200"/></td>
+  </tr>
+</table>
+
 
 
 ## Contact
